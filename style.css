@@ -1,0 +1,30 @@
+/*Body styling */
+body {
+    background-color: rgb(179, 213, 213);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #333333;
+    margin: 20px; 
+}
+
+/*Heading styling */
+h1 {
+    color: rgb(9, 9, 9);
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+
+h2{
+    color:rgb(245, 58, 2);
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+/*Paragraph style */
+p {
+    color:rgb(13, 13, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    border: 2px solid rgb(249, 7, 7);
+    padding: 10px;
+}
