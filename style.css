@@ -27,6 +27,8 @@ p {
     border-radius: 50px;
     background-color: rgb(88, 86, 80);
     margin: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 address {
