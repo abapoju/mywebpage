@@ -1,17 +1,17 @@
 body {
     background-color: rgb(196, 217, 217);
     margin: 20px;
-    
-
+}
 h1 {
     color: rgb(13, 13, 13);
     font-family: 'Times New Roman';
     font-size: 20px;
     text-align: center;
+    
 }
 
 h2{
-    color:rgb(231, 131, 9);
+    color:rgb(2, 110, 252);
     font-family: sans-serif;
     font-size: 15px;
     text-align: center;
@@ -27,17 +27,23 @@ p {
     margin: 30px;
     margin-left: 200px;
     margin-right: 200px;
+    text-align: center;
 }
 
 .container {
+    display: flex;
     border: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 30px;
+    padding: 20px;
+    gap: 10px;
+    margin-left: 300px;
 }
 
 .column {
     padding: 25px;
     margin: 20px;
+    margin-right: 50px;
     background-color: rgb(118, 173, 245);
     border-radius: 40px;
     width: 300px;
@@ -45,6 +51,14 @@ p {
 
 h3 {
     font-style: italic;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.center-list{
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    margin: 0 auto;  
 }
 
 address {
@@ -57,3 +71,4 @@ address {
     margin-bottom: 30px;
     text-align: center;
 }
+
