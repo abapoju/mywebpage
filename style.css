@@ -75,6 +75,7 @@ h3 {
 address {
     font-size: 20px;
     background-color: rgb(180, 185, 192);
+    color: rgb(0, 0, 0);
     padding: 10px;
     margin: 300px;
     margin-top: 30px;
@@ -90,8 +91,8 @@ h4 {
     background-color: rgb(180, 185, 192);
     padding: 8px;
     border-radius: 50px;
-    margin-left: 350px;
-    margin-right: 350px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 table,th,td {
